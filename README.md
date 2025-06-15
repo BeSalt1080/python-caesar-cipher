@@ -21,7 +21,7 @@ It will then prompt you to enter a key.
 
 ![Caesar Cipher Key Input](https://raw.githubusercontent.com/BeSalt1080/python-caesar-cipher/master/sources/1.png)
 
-After entering the key, you will enter the menu.
+After entering the key, you will proceed to the menu.
 
 ## Features
 
